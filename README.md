@@ -47,22 +47,22 @@ The **Random Forest** model achieved the best overall performance across all key
 1. **Distribution of Target Variable**
    - Visualizes the class balance of loan default (`loan_status`)
 
-   ![Target Variable Distribution](screenshots/target_distribution.png)
+   ![Target Variable Distribution](target_distribution.png)
 
 2. **Distribution of Numerical Features**
    - Visual comparison of key numerical features like `person_age`, `person_income`, and `loan_amnt`
 
-   ![Numerical Feature Distribution](screenshots/numerical_features.png)
+   ![Numerical Feature Distribution](numerical_features.png)
 
 3. **Correlation Matrix**
    - Displays feature relationships and their correlations with the target variable
 
-   ![Correlation Matrix](screenshots/correlation_matrix.png)
+   ![Correlation Matrix](correlation_matrix.png)
 
 4. **Confusion Matrix**
    - Shows the model’s classification results for the test set
 
-   ![Confusion Matrix](screenshots/confusion_matrix.png)
+   ![Confusion Matrix](confusion_matrix.png)
 
 ---
 
